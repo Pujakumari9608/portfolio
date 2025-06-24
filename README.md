@@ -11,7 +11,7 @@
 
 # MENTOR:NEELA SANTOSH KUMAR.
 
-## WELCOME TO MY PERSONAL PORTFOLIO WEBSITE! THIS SITE IS A SHOWCASE OF MY WORK AND SKILLS AS A BEGINNER WEB DEVELOPER. IT HIGHLIGHTS MY EXPERTISE IN FRONT-END TECHNOLOGIES LIKE HTML,CSS,JAVASCRIPT AND REACT.
+## Welcome to my personal portfolio website! This site is a showcase of my work and skills as a beginner Web Developer.It highlights my expertise in front-end technologies like HTML,CSS,JavaScript,and React.
 ## TECHNOLOGIES USED ##
 * HTML5
 * CSS3
